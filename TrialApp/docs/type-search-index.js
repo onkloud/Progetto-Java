@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"upo20052528.trials","l":"Visita.LivelliP"},{"p":"upo20052528.trials","l":"MioTrial"},{"p":"upo20052528.trials","l":"Record"},{"p":"upo20052528.trials","l":"RecordTest"},{"p":"upo20052528.trials","l":"Visita"},{"p":"upo20052528.trials","l":"VisitaTest"}];updateSearchResults();
